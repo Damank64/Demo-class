@@ -1,4 +1,4 @@
 # Demo-class
 This is my repository.
 <br>
-Author - Daman Sidhu
+Author - Damanpreet Sidhu
